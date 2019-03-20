@@ -91,7 +91,7 @@
     <message>
         <location filename="../apppreferencesdialog.ui" line="105"/>
         <source>Menu Language</source>
-        <translation>Языковое меню</translation>
+        <translation>Язык меню</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="357"/>
@@ -101,7 +101,7 @@
     <message>
         <location filename="../apppreferencesdialog.ui" line="616"/>
         <source>Select Image</source>
-        <translation>Выбор заставки при загрузке</translation>
+        <translation>Выбор картинки</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="370"/>
@@ -127,20 +127,20 @@ Mode 4:
         <translation type="unfinished">Mode selection:
 
         Mode 1:
-          Левый стик:  Elevator, Rudder
+          Левый стик:  Руль высоты, Руль направления
           Правый стик:  Газ, Элероны
 
         Mode 2:
-          Левый стик:  Throttle, Rudder
-          Правый стик:  Elevator, Aileron
+          Левый стик:  Газ, Руль направления
+          Правый стик:  Руль высоты, Элероны
 
         Mode 3:
-          Левый стик:  Elevator, Aileron
-          Правый стик:  Throttle, Rudder
+          Левый стик:  Руль высоты, Элероны
+          Правый стик:  Газ, Руль направления
 
         Mode 4:
-          Левый стик:  Throttle, Aileron
-          Правый стик:  Elevator, Rudder
+          Левый стик:  Газ, Элероны
+          Правый стик:  Руль высоты, Руль направления
 
         </translation>
     </message>
@@ -167,33 +167,33 @@ Mode 4:
     <message>
         <location filename="../apppreferencesdialog.ui" line="201"/>
         <source>Splash Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Заставка</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="304"/>
         <location filename="../apppreferencesdialog.ui" line="637"/>
         <source>The profile specific folder,  if set, will override general Backup folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Папка профиля, если она задана, переопределение общую папку резервного копирования</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="307"/>
         <source>Backup folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка резервного копирования</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="314"/>
         <source>If set it will override the application general setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Если задано значение, то будет переопределена общая настройка приложения</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="324"/>
         <source>if set, will override general backup enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Если задано значение, то будет переопределено общее backup enable</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="452"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Channel order&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Defines the order of the default mixes created on a new model.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Порядок следования каналов&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Определяет порядок микшеров по умолчанию, созданных для новой модели.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="459"/>
@@ -333,17 +333,17 @@ Mode 4:
     <message>
         <location filename="../apppreferencesdialog.ui" line="58"/>
         <source>Profile Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя профиля</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="623"/>
         <source>Remove Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление профиля</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="609"/>
         <source>Clear Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить заставку</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="582"/>
@@ -358,17 +358,17 @@ Mode 4:
     <message>
         <location filename="../apppreferencesdialog.ui" line="88"/>
         <source>Radio Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип радиоуправления</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="268"/>
         <source>Other Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Прочие настройки</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="334"/>
         <source>General Settings</source>
-        <translation type="unfinished">Основные настройки</translation>
+        <translation>Основные настройки</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="281"/>
@@ -389,33 +389,33 @@ May be different from firmware language</source>
     <message>
         <location filename="../apppreferencesdialog.ui" line="648"/>
         <source>Application Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки приложения</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="664"/>
         <source>Show splash screen when Companion starts</source>
-        <translation type="unfinished"></translation>
+        <translation> показывать заставку при запуске Companion</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="654"/>
         <source>Automatic check for Companion updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическая проверка обновлений Companion</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="327"/>
         <location filename="../apppreferencesdialog.ui" line="674"/>
         <source>Enable automatic backup before writing firmware</source>
-        <translation type="unfinished"></translation>
+        <translation>Вклычение автоматического резервного копривания после загрузки прошивки</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="708"/>
         <source>Automatic check for OpenTX firmware updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическая проверка обновлений прошивок OpenTX</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="724"/>
         <source>Splash Screen Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Библиотека заставок</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="737"/>
@@ -430,27 +430,27 @@ May be different from firmware language</source>
     <message>
         <location filename="../apppreferencesdialog.ui" line="751"/>
         <source>Google Earth Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь к установленому Google Earth</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="831"/>
         <source>Only show user splash images</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать только пользовательские заставки</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="836"/>
         <source>Show user and companion splash images</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать пользовательские заставки и заставки Companion</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="764"/>
         <source>User Splash Screens</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользовательские заставки</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="793"/>
         <source>Automatic Backup Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка автоматического резервного копирования</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="807"/>
@@ -460,7 +460,7 @@ May be different from firmware language</source>
     <message>
         <location filename="../apppreferencesdialog.ui" line="912"/>
         <source>Simulator Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка Симулятора</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="1033"/>
@@ -470,42 +470,42 @@ May be different from firmware language</source>
     <message>
         <location filename="../apppreferencesdialog.ui" line="997"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Включено</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="942"/>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Синий</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="947"/>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Зеленый</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="952"/>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Красный</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="957"/>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Оранжевый</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="962"/>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Желтый</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="1020"/>
         <source>Joystick</source>
-        <translation type="unfinished"></translation>
+        <translation>Джойстик</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="928"/>
         <source>Calibrate</source>
-        <translation type="unfinished"></translation>
+        <translation>Калибровка</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="970"/>
@@ -536,7 +536,7 @@ May be different from firmware language</source>
         <location filename="../apppreferencesdialog.cpp" line="152"/>
         <location filename="../apppreferencesdialog.cpp" line="277"/>
         <source>No joysticks found</source>
-        <translation type="unfinished"></translation>
+        <translation>Джойстик не найден</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.cpp" line="199"/>
@@ -676,7 +676,7 @@ May be different from firmware language</source>
     <message>
         <location filename="../generaledit/calibration.ui" line="239"/>
         <source>OFF</source>
-        <translation type="unfinished">ВЫКЛ</translation>
+        <translation>ВЫКЛ</translation>
     </message>
     <message>
         <location filename="../generaledit/calibration.ui" line="244"/>
@@ -686,7 +686,7 @@ May be different from firmware language</source>
     <message>
         <location filename="../generaledit/calibration.ui" line="249"/>
         <source>Telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Телеметрия</translation>
     </message>
     <message>
         <location filename="../generaledit/calibration.ui" line="254"/>
@@ -696,7 +696,7 @@ May be different from firmware language</source>
     <message>
         <location filename="../generaledit/calibration.ui" line="259"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <location filename="../generaledit/calibration.ui" line="288"/>
@@ -962,17 +962,17 @@ May be different from firmware language</source>
     <message>
         <location filename="../modeledit/channels.cpp" line="83"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <location filename="../modeledit/channels.cpp" line="86"/>
         <source>Min</source>
-        <translation type="unfinished">Мин</translation>
+        <translation>Мин.</translation>
     </message>
     <message>
         <location filename="../modeledit/channels.cpp" line="87"/>
         <source>Max</source>
-        <translation type="unfinished">Макс</translation>
+        <translation>Макс.</translation>
     </message>
     <message>
         <location filename="../modeledit/channels.cpp" line="85"/>
@@ -1035,17 +1035,17 @@ May be different from firmware language</source>
     <message>
         <location filename="../comparedialog.ui" line="105"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location filename="../comparedialog.ui" line="112"/>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <location filename="../comparedialog.ui" line="119"/>
         <source>Print to file</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать в файл</translation>
     </message>
     <message>
         <location filename="../comparedialog.cpp" line="81"/>
@@ -1055,7 +1055,7 @@ May be different from firmware language</source>
     <message>
         <location filename="../comparedialog.cpp" line="122"/>
         <source>Print Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать документа</translation>
     </message>
     <message>
         <location filename="../comparedialog.cpp" line="131"/>
@@ -1068,7 +1068,7 @@ May be different from firmware language</source>
     <message>
         <location filename="../wizarddialog.cpp" line="974"/>
         <source>OK, I understand.</source>
-        <translation type="unfinished"></translation>
+        <translation>Хорошо, я понимаю.</translation>
     </message>
 </context>
 <context>
@@ -1076,27 +1076,27 @@ May be different from firmware language</source>
     <message>
         <location filename="../contributorsdialog.cpp" line="11"/>
         <source>OpenTX Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторы OpenTX</translation>
     </message>
     <message>
         <location filename="../contributorsdialog.cpp" line="33"/>
         <source>Main Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Основные разработчики</translation>
     </message>
     <message>
         <location filename="../contributorsdialog.cpp" line="40"/>
         <source>Other contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>Соавторы</translation>
     </message>
     <message>
         <location filename="../contributorsdialog.cpp" line="52"/>
         <source>Companies and projects who have donated to OpenTX</source>
-        <translation type="unfinished"></translation>
+        <translation>Компании и проекты спонсировавшие OpenTX</translation>
     </message>
     <message>
         <location filename="../contributorsdialog.cpp" line="59"/>
         <source>People who have donated to OpenTX</source>
-        <translation type="unfinished"></translation>
+        <translation>Люди сделавшие пожертвования в развитие проекта OpenTX</translation>
     </message>
     <message>
         <location filename="../contributorsdialog.cpp" line="63"/>
@@ -2896,7 +2896,7 @@ Mode 4:
     <message>
         <location filename="../generaledit/generalsetup.ui" line="1334"/>
         <source>GPS Coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS координаты</translation>
     </message>
     <message>
         <location filename="../generaledit/generalsetup.ui" line="1376"/>
