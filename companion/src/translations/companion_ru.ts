@@ -6,7 +6,7 @@
     <message>
         <location filename="../wizarddialog.cpp" line="427"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../wizarddialog.cpp" line="428"/>
@@ -34,7 +34,7 @@
     <message>
         <location filename="../wizarddialog.cpp" line="556"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../wizarddialog.cpp" line="557"/>
@@ -62,12 +62,12 @@
     <message>
         <location filename="../apppreferencesdialog.ui" line="26"/>
         <source>Edit Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактирование настроек</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="46"/>
         <source>Radio Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Радио профиль</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="630"/>
@@ -76,32 +76,32 @@
         <location filename="../apppreferencesdialog.ui" line="884"/>
         <location filename="../apppreferencesdialog.ui" line="1004"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Открытая папка</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="424"/>
         <source>Default Channel Order</source>
-        <translation type="unfinished">Порядок следов. каналов</translation>
+        <translation>Порядок следования каналов по умолчанию</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="169"/>
         <source>Build Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Опции сборки</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="105"/>
         <source>Menu Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Языковое меню</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="357"/>
         <source>Default Stick Mode</source>
-        <translation type="unfinished">Режим стиков</translation>
+        <translation>Режим стиков по умолчанию</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="616"/>
         <source>Select Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор заставки при загрузке</translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="370"/>
@@ -124,7 +124,25 @@ Mode 4:
   Right stick:  Elevator, Rudder
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mode selection:
+
+        Mode 1:
+          Левый стик:  Elevator, Rudder
+          Правый стик:  Газ, Элероны
+
+        Mode 2:
+          Левый стик:  Throttle, Rudder
+          Правый стик:  Elevator, Aileron
+
+        Mode 3:
+          Левый стик:  Elevator, Aileron
+          Правый стик:  Throttle, Rudder
+
+        Mode 4:
+          Левый стик:  Throttle, Aileron
+          Правый стик:  Elevator, Rudder
+
+        </translation>
     </message>
     <message>
         <location filename="../apppreferencesdialog.ui" line="395"/>
